@@ -1,0 +1,1 @@
+iqtree3 -s 281125_trimal_al_add_africa_Rhino_ACE2_comb_281125_cds_linsi_only_NCBI.fasta -m TEST -bb 1000 -alrt 1000

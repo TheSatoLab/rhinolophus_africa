@@ -1,0 +1,1 @@
+iqtree -s Charlotte_RBDs_221225.fas -nt AUTO -B 1000
